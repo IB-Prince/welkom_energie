@@ -169,6 +169,7 @@ nav ul li{
     display: none;
 }
 .colB{
+    padding: 10px;
     margin-left: 1em;
     background: silver;
 }
